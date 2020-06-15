@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66983530824",
+    "firebase_url": "https://android-1582001174009.firebaseio.com",
+    "project_id": "android-1582001174009",
+    "storage_bucket": "android-1582001174009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66983530824:android:3f9ee164dd689f9615a37d",
+        "android_client_info": {
+          "package_name": "com.sict.loadcontentnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66983530824-8orla51em81a9hl6lfmdfv05kgu9r70h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sict.loadcontentnews",
+            "certificate_hash": "1497717abddbe56ec3f372dc90e1f75e637ca061"
+          }
+        },
+        {
+          "client_id": "66983530824-828q1hh1ggmcsk5982ekh53e6cr77t1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlma2Xfh1ZpYwdvTnUEj-nwT2mAa0JzsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66983530824-828q1hh1ggmcsk5982ekh53e6cr77t1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
